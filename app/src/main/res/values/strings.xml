@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Eventown</string>
+    <string name="title_home">Home</string>
+    <string name="title_photos">Photos and Videos</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="my_account">My Account</string>
+    <string name="home_fragment">Home</string>
+    <string name="event_photo_fragment">Event Photo Fragment</string>
+    <string name="favorite_fragment">Favorite Fragment</string>
+    <string name="my_profile_fragment">My Account Fragment</string>
+</resources>
